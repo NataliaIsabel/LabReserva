@@ -1,0 +1,19 @@
+# Build e IDE
+target/
+build/
+out/
+bin/
+*.class
+*.jar
+*.war
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+nbproject/
+.DS_Store
+
+# Credenciais locais (nunca versionar)
+db.properties
